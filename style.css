@@ -1,0 +1,44 @@
+body {
+    background-image: repeating-linear-gradient(blue , yellow , green);
+}
+
+.container {
+    /* background: pink; */
+    width: 400px;
+    height: 500px;
+    display: block;
+    margin: 23px auto;
+    padding: 23px;
+    border: 2px solid white;
+    border-radius: 12px;
+}
+
+.calcContainer{
+   padding-left: 10px;
+   display: block;
+   margin: 23px  auto ;
+   align-items: center;
+}
+
+.btns {
+    /* size: 22px; */
+    /* display: block; */
+    padding:23px;
+    width: 60px;
+    margin:12px;
+    background: rgb(59, 59, 250);
+    color: white;
+    margin-right: 12px;
+    border: 2px solid black;
+    border-radius: 12px;
+}
+
+.text {
+    display: block;
+    margin: auto;
+    align-items: center;
+   width: 334px;
+   border: 2px solid black;
+   height: 50px;
+   font-size: 23px;
+}
